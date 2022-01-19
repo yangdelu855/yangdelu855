@@ -3,11 +3,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Query Understanding and Search Ranking
-- 🌱 I’m currently learning Vue for my blog
-- 👯 I’m looking to collaborate on NLP 
-- 🤔 I’m looking for help with Vue
-- ⚡ Fun fact: I'm from Tianjin
+- 🔭 I’m currently working on Query Understanding and Search Ranking.
+- 🌱 I’m currently learning Vue for my blog.
+- 👯 I’m looking to collaborate on NLP.
+- 🤔 I’m looking for help with Vue.
+- ⚡ Fun fact: I'm from Tianjin.
 <!--
 **yangdelu855/yangdelu855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
