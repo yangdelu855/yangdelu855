@@ -1,5 +1,13 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yangdelu855&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+
 ### Hi there 👋
 
+-🔭 I’m currently working on Query Understanding and Search Ranking
+- 🌱 I’m currently learning Vue for my blog
+- 👯 I’m looking to collaborate on NLP 
+- 🤔 I’m looking for help with Vue
+- ⚡ Fun fact: I'm from Tianjin
 <!--
 **yangdelu855/yangdelu855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
