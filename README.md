@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
--🔭 I’m currently working on Query Understanding and Search Ranking
+- 🔭 I’m currently working on Query Understanding and Search Ranking
 - 🌱 I’m currently learning Vue for my blog
 - 👯 I’m looking to collaborate on NLP 
 - 🤔 I’m looking for help with Vue
